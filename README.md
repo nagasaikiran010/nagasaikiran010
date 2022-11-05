@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @nagasaikiran010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m NagaSaiKiran AKA @nagasaikiran010
+- 👀 I’m interested in hacking and cybersecurity
+- 🌱 I’m currently learning Reverse and source code review
+- 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me ...
+
+# socials
+
+[linkedin](https://www.linkedin.com/in/naga-sai-kiran-thatikonda/)     [Twitter](https://twitter.com/saikiran_98)
+
+Instagram LinkedIn Medium Twitter YouTube
 
 <!---
 nagasaikiran010/nagasaikiran010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
