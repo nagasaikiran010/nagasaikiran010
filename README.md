@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NagaSaiKiran AKA @nagasaikiran010
 - 👀 I’m interested in hacking and cybersecurity
-- 🌱 I’m currently learning Reverse and source code review
+- 🌱 I’m currently learning ... [I'll update soon]
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me ...
 
