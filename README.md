@@ -8,7 +8,6 @@
 
 [linkedin](https://www.linkedin.com/in/naga-sai-kiran-thatikonda/)     [Twitter](https://twitter.com/saikiran_98)
 
-Instagram LinkedIn Medium Twitter YouTube
 
 <!---
 nagasaikiran010/nagasaikiran010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
