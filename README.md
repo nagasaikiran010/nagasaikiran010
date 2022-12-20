@@ -6,7 +6,8 @@
 
 # socials
 
-[linkedin](https://www.linkedin.com/in/naga-sai-kiran-thatikonda/)     [Twitter](https://twitter.com/saikiran_98)
+[linkedin](https://www.linkedin.com/in/naga-sai-kiran-thatikonda/)
+[Twitter](https://twitter.com/saikiran_98)
 
 
 <!---
