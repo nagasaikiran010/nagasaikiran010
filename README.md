@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NagaSaiKiran AKA @nagasaikiran010 AKA N@G@$@!k!R@N
 - 👀 I’m interested in hacking and cybersecurity
-- 🌱 I’m currently learning docker, Kubernetes
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me ...
 
