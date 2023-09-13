@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm nagasaikiran<br>🔭 I’m currently Looking for a job in Cybersecurity Field<br>👯 I have 2 + years of experience in VAPT<br>🤝 I am working as a freelance pentester /Bug hunter<br>🌱 I have completed the CEH certification 
+👋 I'm nagasaikiran<br>🔭 I’m currently Looking for a job in Cybersecurity Field<br>👯 I have 2 + years of experience in VAPT<br>🤝 I am working as a freelance Penetration Tester /Bug hunter<br>🌱 I have completed the CEH certification 
 
 
 ## 🌐 Socials:
