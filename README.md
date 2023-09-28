@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 I'm nagasaikiran<br>🔭 I’m currently Looking for a job in Cybersecurity Field<br>👯 I have 2 + years of experience in VAPT<br>🤝 I am working as a freelance Penetration Tester /Bug hunter<br>🌱 I have completed the CEH certification 
-
+👋 I'm nagasaikiran<br>🔭 I’m currently Looking for a job in Cybersecurity Field<br>👯 I have 2 + years of experience in VAPT<br>🤝 Now I am working as a freelance penetration tester /  Bug hunter since sep-2023<br>🌱 I have completed the CEH certification
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagasaikiran010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagasaikiran010) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nagasaikiran010) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nagasaikiran010) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nagasaikiran010) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nagasaikiran)
