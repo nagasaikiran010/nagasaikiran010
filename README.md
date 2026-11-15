@@ -1,4 +1,4 @@
-<h1 align="center">Naga Sai Kiran T</h1>
+<h1 align="center">Naga Sai Kiran</h1>
 
 <p align="center">
   <b>Application Security Engineer</b> · Web · API · Android · AI Security<br>
@@ -23,7 +23,7 @@ $ cat about.txt
 VAPT · source code review · SAST · business logic testing
 
 $ ls certs/
-CRTP  CEH
+BSCP  CRTP  CEH
 
 $ cat ranks.txt
 Hack The Box  : Grandmaster
@@ -39,13 +39,6 @@ Bug bounty    : Hall of Fame + rewarded responsible disclosure
 | 📱 **Mobile security** | Android application assessments |
 | 🤖 **AI security** | LLM and agentic AI attack surfaces |
 | 🧬 **Low-level** | Reverse engineering and binary exploitation through CTFs |
-
-## 🛠️ Projects
-
-| Project | Description |
-|---|---|
-| **wcd_scanner** | Python scanner for web cache deception with proof-chain validation, proxy routing, and JSON reporting |
-| **RCE Vulnerability Classes Survey** | Practitioner reference covering command injection, SSTI, deserialization, file upload/inclusion, and SSRF |
 
 ## 🧰 Toolbox
 
