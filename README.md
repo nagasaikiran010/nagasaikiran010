@@ -23,7 +23,7 @@ $ cat about.txt
 VAPT · source code review · SAST · business logic testing
 
 $ ls certs/
-BSCP  CRTP  CEH
+CRTP  CEH
 
 $ cat ranks.txt
 Hack The Box  : Grandmaster
